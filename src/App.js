@@ -77,7 +77,7 @@ class App extends Component {
         <div className="row">
   
         <div className="col s12">
-              <input type="text" id="DateTimePickerDiv" />
+              <input type="text" id="DateTimePickerDiv" placeholder="Click Me!!"/>
         </div>
   
         <div className="col s6">
